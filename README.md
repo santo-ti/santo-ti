@@ -6,7 +6,7 @@
 </div>
 <p><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,aws,html,css,js,ts,react,java,spring,kotlin,nodejs,nestjs&perline=7" />
+    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,html,css,js,ts,react,java,spring,kotlin,nodejs,nestjs&perline=7" />
   </a>
 </p>
 
